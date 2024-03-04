@@ -13,7 +13,7 @@ Proyek ini menggunakan Kafka untuk menerima data transaksi keuangan secara real-
 - **producer.py**: Script Python untuk Kafka Producer yang menghasilkan data transaksi dan mengirimkannya ke topik Kafka.
 
 - **fraud_model.py**: Script Python yang berisi model deteksi kecurangan dan proses preprocessing data.
-- 
+  
 #### Fitur
 - Menerima data transaksi secara real-time melalui Kafka Producer.
 - Menganalisis pola dan anomali dalam data transaksi dengan Kafka Streams.
